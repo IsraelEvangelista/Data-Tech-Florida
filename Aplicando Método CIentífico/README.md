@@ -33,7 +33,9 @@ O propósito deste estudo é validar uma hipótese científica que propõe que m
 **Trabalhos desenvolvidos**
 
 - Este Notebook é uma ferramenta de análise e validação para o estudo sobre a relação entre a dosagem de medicamentos, hábitos de vida dos pacientes, efeitos colaterais e eficácia do tratamento. Nele, são detalhadas as metodologias usadas, incluindo a coleta e análise de dados, para explorar como as variáveis estudadas afetam os resultados do tratamento. Utilizando a linguagem de programação Python, este trabalho oferece uma abordagem rigorosa e estruturada, permitindo uma investigação profunda e científica do tema. As análises incluem estatísticas descritivas, correlações e testes de hipótese, fornecendo uma base sólida para a validação da hipótese proposta no estudo.
-[Notebook]()
+  
+[Notebook](https://github.com/IsraelEvangelista/Data-Tech-Florida/blob/main/Aplicando%20M%C3%A9todo%20CIent%C3%ADfico/An%C3%A1lise_da_Efic%C3%A1cia_de_Medicamentos_Simula%C3%A7%C3%A3o.ipynb)
 
 - A apresentação em PowerPoint deste trabalho proporciona uma visão geral acessível e informativa do estudo realizado. Destina-se a comunicar os principais pontos e descobertas de maneira clara e envolvente para um público mais amplo, incluindo aqueles que podem não estar familiarizados com os detalhes técnicos do notebook Python. A apresentação destaca o objetivo do estudo, a hipótese central, os métodos utilizados para a análise, e os resultados chave, enfatizando a relação entre a dosagem de medicamentos, hábitos de vida e efeitos colaterais. Utiliza gráficos, tabelas e resumos visuais para tornar os dados compreensíveis e interessantes, visando facilitar a compreensão e promover um engajamento efetivo com o conteúdo do estudo.
-  [Power Point]()
+  
+[Power Point](https://github.com/IsraelEvangelista/Data-Tech-Florida/blob/main/Aplicando%20M%C3%A9todo%20CIent%C3%ADfico/Trabalho%2001%20-%20Turma%20Newton.pptx)
